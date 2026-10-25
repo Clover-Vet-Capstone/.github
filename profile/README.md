@@ -13,8 +13,8 @@ The project aims to develop an AI-powered chatbot and an admin dashboard to supp
 | Learning Path | Repository | Description |
 |---|---|---|
 | Data Science Specialist | [Clover Vet Data Science](https://github.com/Clover-Vet-Capstone/clover-vet-data-science) | Data preparation, analysis, validation, insights, and recommendations. |
-| AI-Fullstack Developer | [Repository link](LINK_FS) | UI/UX design, frontend, backend, database, and application integration. |
-| Gen-AI Engineer | [Repository link](LINK_AE) | Intent classification, Generative AI integration, chatbot development, and model evaluation. |
+| AI-Fullstack Developer | [Clover Vet Fullstack](https://github.com/Clover-Vet-Capstone/clover-vet-ai-fullstack) | UI/UX design, frontend, backend, database, and application integration. |
+| Gen-AI Engineer | [Clover Vet AI Engineer](https://github.com/Clover-Vet-Capstone/clover-vet-genai-engineer) | Intent classification, Generative AI integration, chatbot development, and model evaluation. |
 
 ## 🛠️ Tech Stack
 
